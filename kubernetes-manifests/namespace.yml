@@ -1,0 +1,10 @@
+{
+  "kind": "Namespace",
+  "apiVersion": "v1",
+  "metadata": {
+    "name": "german-env1",
+    "labels": {
+      "name": "german-env1"
+    }
+  }
+}

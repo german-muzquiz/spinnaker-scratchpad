@@ -1,3 +1,4 @@
+# https://api.github.com/repos/german-muzquiz/spinnaker-scratchpad/contents/kubernetes-manifests/nginx-dep.yml
 apiVersion: apps/v1
 kind: Deployment
 metadata:

@@ -19,4 +19,5 @@ spec:
           ports:
             - containerPort: 80
           env:
-            - a: ${lol}
+            - name: a
+              value: ${lol}

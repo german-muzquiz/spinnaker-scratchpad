@@ -1,6 +1,7 @@
 kubernetes:
   enabled: true
-    accounts:
+  primaryAccount: spinnaker
+  accounts:
     - name: spinnaker
       requiredGroupMembership: []
       providerVersion: V2
@@ -43,5 +44,4 @@ kubernetes:
       oAuthScopes: []
       onlySpinnakerManaged: true
       metrics: false
-    primaryAccount: spinnaker
     

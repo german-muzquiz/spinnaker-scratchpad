@@ -1,0 +1,47 @@
+kubernetes:
+  enabled: true
+    accounts:
+    - name: spinnaker
+      requiredGroupMembership: []
+      providerVersion: V2
+      permissions: {}
+      dockerRegistries: []
+      configureImagePullSecrets: true
+      cacheThreads: 5
+      namespaces: []
+      omitNamespaces:
+      - kube-public
+      - kube-node-lease
+      kinds: []
+      omitKinds: []
+      customResources: []
+      cachingPolicies: []
+      kubeconfigFile: /Users/german/.kube/config
+      liveManifestCalls: false
+      oauthScopes: []
+      oAuthScopes: []
+      onlySpinnakerManaged: true
+      metrics: false
+    - name: spinnaker-2
+      requiredGroupMembership: []
+      providerVersion: V2
+      permissions: {}
+      dockerRegistries: []
+      configureImagePullSecrets: true
+      cacheThreads: 5
+      namespaces: []
+      omitNamespaces:
+      - kube-public
+      - kube-node-lease
+      kinds: []
+      omitKinds: []
+      customResources: []
+      cachingPolicies: []
+      kubeconfigFile: /Users/german/.kube/config
+      liveManifestCalls: false
+      oauthScopes: []
+      oAuthScopes: []
+      onlySpinnakerManaged: true
+      metrics: false
+    primaryAccount: spinnaker
+    

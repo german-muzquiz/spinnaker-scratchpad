@@ -964,7 +964,7 @@ kubernetes:
 
 cloudfoundry:
   primaryAccount: cf-1
-  enabled: true
+  enabled: false
   accounts:
   - api: api.sys.sanmarcos.cf-app.com
     appsManagerUri: https://apps.sys.sanmarcos.cf-app.com

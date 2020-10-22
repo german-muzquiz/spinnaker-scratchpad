@@ -14,7 +14,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-2
@@ -30,7 +30,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-3
@@ -46,7 +46,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-4
@@ -62,7 +62,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-5
@@ -78,7 +78,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-6
@@ -94,7 +94,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-7
@@ -110,7 +110,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-8
@@ -126,7 +126,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-9
@@ -142,7 +142,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-10
@@ -158,7 +158,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-11
@@ -174,7 +174,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-12
@@ -190,7 +190,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-13
@@ -206,7 +206,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-14
@@ -222,7 +222,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-15
@@ -238,7 +238,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-16
@@ -254,7 +254,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-17
@@ -270,7 +270,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-18
@@ -286,7 +286,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-19
@@ -302,7 +302,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-20
@@ -318,7 +318,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-21
@@ -334,7 +334,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-22
@@ -350,7 +350,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-23
@@ -366,7 +366,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-24
@@ -382,7 +382,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-25
@@ -398,7 +398,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-26
@@ -414,7 +414,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-27
@@ -430,7 +430,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-28
@@ -446,7 +446,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-29
@@ -462,7 +462,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-30
@@ -478,7 +478,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-31
@@ -494,7 +494,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-32
@@ -510,7 +510,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-33
@@ -526,7 +526,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-34
@@ -542,7 +542,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-35
@@ -558,7 +558,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-36
@@ -574,7 +574,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-37
@@ -590,7 +590,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-38
@@ -606,7 +606,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-39
@@ -622,7 +622,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-40
@@ -638,7 +638,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-41
@@ -654,7 +654,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-42
@@ -670,7 +670,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-43
@@ -686,7 +686,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-44
@@ -702,7 +702,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-45
@@ -718,7 +718,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-46
@@ -734,7 +734,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-47
@@ -750,7 +750,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-48
@@ -766,7 +766,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-49
@@ -782,7 +782,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-50
@@ -798,7 +798,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-51
@@ -814,7 +814,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-52
@@ -830,7 +830,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-53
@@ -846,7 +846,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-54
@@ -862,7 +862,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-55
@@ -878,7 +878,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-56
@@ -894,7 +894,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-57
@@ -910,7 +910,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-58
@@ -926,7 +926,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-59
@@ -942,7 +942,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-60
@@ -958,7 +958,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
     oAuthScopes: []
     onlySpinnakerManaged: false
 

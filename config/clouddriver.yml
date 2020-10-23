@@ -8,14 +8,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-2
@@ -25,14 +24,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-3
@@ -42,14 +40,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-4
@@ -59,14 +56,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-5
@@ -76,14 +72,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-6
@@ -93,14 +88,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-7
@@ -110,14 +104,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-8
@@ -127,14 +120,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-9
@@ -144,14 +136,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-10
@@ -161,14 +152,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-11
@@ -178,14 +168,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-12
@@ -195,14 +184,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-13
@@ -212,14 +200,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-14
@@ -229,14 +216,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-15
@@ -246,14 +232,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-16
@@ -263,14 +248,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-17
@@ -280,14 +264,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-18
@@ -297,14 +280,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-19
@@ -314,14 +296,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-20
@@ -331,14 +312,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-21
@@ -348,14 +328,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-22
@@ -365,14 +344,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-23
@@ -382,14 +360,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-24
@@ -399,14 +376,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-25
@@ -416,14 +392,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-26
@@ -433,14 +408,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-27
@@ -450,14 +424,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-28
@@ -467,14 +440,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-29
@@ -484,14 +456,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-30
@@ -501,14 +472,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-31
@@ -518,14 +488,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-32
@@ -535,14 +504,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-33
@@ -552,14 +520,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-34
@@ -569,14 +536,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-35
@@ -586,14 +552,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-36
@@ -603,14 +568,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-37
@@ -620,14 +584,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-38
@@ -637,14 +600,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-39
@@ -654,14 +616,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-40
@@ -671,14 +632,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-41
@@ -688,14 +648,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-42
@@ -705,14 +664,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-43
@@ -722,14 +680,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-44
@@ -739,14 +696,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-45
@@ -756,14 +712,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-46
@@ -773,14 +728,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-47
@@ -790,14 +744,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-48
@@ -807,14 +760,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-49
@@ -824,14 +776,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-50
@@ -841,14 +792,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-51
@@ -858,14 +808,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-52
@@ -875,14 +824,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-53
@@ -892,14 +840,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-54
@@ -909,14 +856,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-55
@@ -926,14 +872,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-56
@@ -943,14 +888,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-57
@@ -960,14 +904,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-58
@@ -977,14 +920,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-59
@@ -994,14 +936,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-60
@@ -1011,14 +952,13 @@ kubernetes:
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces:
-        - spinnaker
+    namespaces: []
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote-restricted
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
 

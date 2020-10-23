@@ -2,7 +2,7 @@ kubernetes:
   enabled: true
   accounts:
   - name: k8s-acc-1
-    kubectlExecutable: /custom-volume/kubectl-fake
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}

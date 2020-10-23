@@ -19,6 +19,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-2
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -35,6 +36,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-3
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -51,6 +53,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-4
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -67,6 +70,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-5
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -83,6 +87,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-6
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -99,6 +104,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-7
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -115,6 +121,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-8
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -131,6 +138,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-9
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -147,6 +155,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-10
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -163,6 +172,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-11
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -179,6 +189,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-12
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -195,6 +206,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-13
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -211,6 +223,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-14
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -227,6 +240,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-15
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -243,6 +257,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-16
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -259,6 +274,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-17
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -275,6 +291,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-18
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -291,6 +308,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-19
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -307,6 +325,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-20
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -323,6 +342,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-21
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -339,6 +359,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-22
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -355,6 +376,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-23
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -371,6 +393,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-24
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -387,6 +410,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-25
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -403,6 +427,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-26
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -419,6 +444,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-27
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -435,6 +461,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-28
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -451,6 +478,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-29
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -467,6 +495,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-30
+    kubectlExecutable: /pv/kubectl-fake
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}

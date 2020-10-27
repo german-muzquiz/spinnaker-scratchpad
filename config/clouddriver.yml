@@ -19,5 +19,5 @@ kubernetes:
     kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
-    kubectlExecutable: /custom-volume/kubectl-fake
+    kubectlExecutable: /pv/kubectl-fake
 

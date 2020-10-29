@@ -1,0 +1,23 @@
+jobs.local.timeout-minutes: 1
+
+kubernetes:
+  enabled: true
+  accounts:
+  - name: k8s-acc-1
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+    kubectlExecutable: /pv/hang
+

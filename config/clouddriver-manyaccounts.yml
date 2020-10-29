@@ -4,6 +4,7 @@ kubernetes:
   enabled: true
   accounts:
   - name: k8s-acc-1
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -20,6 +21,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-2
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -36,6 +38,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-3
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -52,6 +55,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-4
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -68,6 +72,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-5
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -84,6 +89,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-6
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -100,6 +106,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-7
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -116,6 +123,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-8
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -132,6 +140,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-9
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -148,6 +157,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-10
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -164,6 +174,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-11
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -180,6 +191,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-12
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -196,6 +208,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-13
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -212,6 +225,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-14
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -228,6 +242,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-15
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -244,6 +259,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-16
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -260,6 +276,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-17
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -276,6 +293,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-18
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -292,6 +310,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-19
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -308,6 +327,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-20
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -324,6 +344,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-21
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -340,6 +361,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-22
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -356,6 +378,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-23
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -372,6 +395,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-24
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -388,6 +412,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-25
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -404,6 +429,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-26
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -420,6 +446,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-27
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -436,6 +463,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-28
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -452,6 +480,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-29
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -468,6 +497,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-30
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -484,6 +514,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-31
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -500,6 +531,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-32
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -516,6 +548,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-33
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -532,6 +565,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-34
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -548,6 +582,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-35
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -564,6 +599,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-36
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -580,6 +616,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-37
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -596,6 +633,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-38
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -612,6 +650,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-39
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -628,6 +667,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-40
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -644,6 +684,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-41
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -660,6 +701,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-42
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -676,6 +718,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-43
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -692,6 +735,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-44
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -708,6 +752,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-45
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -724,6 +769,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-46
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -740,6 +786,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-47
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -756,6 +803,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-48
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -772,6 +820,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-49
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -788,6 +837,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-50
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -804,6 +854,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-51
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -820,6 +871,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-52
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -836,6 +888,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-53
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -852,6 +905,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-54
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -868,6 +922,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-55
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -884,6 +939,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-56
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -900,6 +956,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-57
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -916,6 +973,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-58
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -932,6 +990,7 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-59
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
@@ -948,6 +1007,687 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-60
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-61
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-62
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-63
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-64
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-65
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-66
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-67
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-68
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-69
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-70
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-71
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-72
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-73
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-74
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-75
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-76
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-77
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-78
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-79
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-80
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-81
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-82
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-83
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-84
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-85
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-86
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-87
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-88
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-89
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-90
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-91
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-92
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-93
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-94
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-95
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-96
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-97
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-98
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-99
+    kubectlExecutable: /pv/hang
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /custom-volume/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-acc-100
+    kubectlExecutable: /pv/hang
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}

@@ -1,5 +1,3 @@
-jobs.local.timeout-minutes: 1
-
 kubernetes:
   enabled: true
   accounts:

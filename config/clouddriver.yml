@@ -1722,28 +1722,3 @@ cloudfoundry:
     requiredGroupMembership: []
     skipSslValidation: true
     user: admin
-  - api: api.sys.sanmarcos.cf-app.com
-    appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
-    name: cf-3
-    password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD}
-    permissions: {}
-    requiredGroupMembership: []
-    skipSslValidation: true
-    user: admin
-  - api: api.sys.sanmarcos.cf-app.com
-    appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
-    name: cf-4
-    password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD}
-    permissions: {}
-    requiredGroupMembership: []
-    skipSslValidation: true
-    user: admin
-  - api: api.sys.sanmarcos.cf-app.com
-    appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
-    name: cf-5
-    password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD}
-    permissions: {}
-    requiredGroupMembership: []
-    skipSslValidation: true
-    user: admin
-

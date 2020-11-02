@@ -1722,3 +1722,67 @@ cloudfoundry:
     requiredGroupMembership: []
     skipSslValidation: true
     user: admin
+  - api: api.sys.sanmarcos.cf-app.com
+    appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+    name: cf-3
+    password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD}
+    permissions: {}
+    requiredGroupMembership: []
+    skipSslValidation: true
+    user: admin
+  - api: api.sys.sanmarcos.cf-app.com
+    appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+    name: cf-4
+    password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD}
+    permissions: {}
+    requiredGroupMembership: []
+    skipSslValidation: true
+    user: admin
+  - api: api.sys.sanmarcos.cf-app.com
+    appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+    name: cf-5
+    password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD}
+    permissions: {}
+    requiredGroupMembership: []
+    skipSslValidation: true
+    user: admin
+  - api: api.sys.sanmarcos.cf-app.com
+    appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+    name: cf-6
+    password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD}
+    permissions: {}
+    requiredGroupMembership: []
+    skipSslValidation: true
+    user: admin
+  - api: api.sys.sanmarcos.cf-app.com
+    appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+    name: cf-7
+    password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD}
+    permissions: {}
+    requiredGroupMembership: []
+    skipSslValidation: true
+    user: admin
+  - api: api.sys.sanmarcos.cf-app.com
+    appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+    name: cf-8
+    password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD}
+    permissions: {}
+    requiredGroupMembership: []
+    skipSslValidation: true
+    user: admin
+  - api: api.sys.sanmarcos.cf-app.com
+    appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+    name: cf-9
+    password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD}
+    permissions: {}
+    requiredGroupMembership: []
+    skipSslValidation: true
+    user: admin
+  - api: api.sys.sanmarcos.cf-app.com
+    appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+    name: cf-10
+    password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD}
+    permissions: {}
+    requiredGroupMembership: []
+    skipSslValidation: true
+    user: admin

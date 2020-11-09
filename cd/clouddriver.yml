@@ -26,7 +26,7 @@ kubernetes:
     permissions: {}
     dockerRegistries: []
     configureImagePullSecrets: true
-    cacheThreads: 2
+    cacheThreads: 3
     namespaces: []
     omitNamespaces: []
     kinds: []

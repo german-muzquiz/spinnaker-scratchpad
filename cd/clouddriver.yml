@@ -49,8 +49,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    #kubeconfigFile: configserver:kubecfg-remote-cmd
-    kubeconfigFile: configserver:blah
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-4

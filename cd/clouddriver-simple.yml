@@ -21,19 +21,3 @@ kubernetes:
     onlySpinnakerManaged: false
     #kubectlExecutable: /pv/hang
     #serviceAccount: true
-  - name: k8s-acc-2
-    requiredGroupMembership: []
-    providerVersion: V2
-    permissions: {}
-    dockerRegistries: []
-    configureImagePullSecrets: true
-    cacheThreads: 1
-    namespaces: []
-    omitNamespaces: []
-    kinds: []
-    omitKinds: []
-    customResources: []
-    cachingPolicies: []
-    kubeconfigFile: /custom-volume/kubecfg-remote
-    oAuthScopes: []
-    onlySpinnakerManaged: false

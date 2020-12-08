@@ -16,9 +16,9 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    #kubeconfigFile: /custom-volume/kubecfg-remote
+    kubeconfigFile: /custom-volume/kubecfg-remote
     oAuthScopes: []
     onlySpinnakerManaged: false
     #kubectlExecutable: /pv/hang
-    serviceAccount: true
+    #serviceAccount: true
 

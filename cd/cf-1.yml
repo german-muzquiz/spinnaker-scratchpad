@@ -1,0 +1,11 @@
+cloudfoundry:
+  enabled: true
+  accounts:
+  - api: api.sys.sanmarcos.cf-app.com
+    appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+    name: cf-1
+    password: encrypted:s3!b:german-spinnaker!f:secrets/secrets.yml!k:cf-password
+    permissions: {}
+    requiredGroupMembership: []
+    skipSslValidation: true
+    user: admin

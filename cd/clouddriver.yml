@@ -15,7 +15,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-2
@@ -32,7 +32,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-3
@@ -49,7 +49,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-4
@@ -66,7 +66,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-5
@@ -83,7 +83,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-6
@@ -100,7 +100,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-7
@@ -117,7 +117,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-8
@@ -134,7 +134,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-9
@@ -151,7 +151,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-10
@@ -168,7 +168,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-11
@@ -185,7 +185,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-12
@@ -202,7 +202,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-13
@@ -219,7 +219,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-14
@@ -236,7 +236,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-15
@@ -253,7 +253,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-16
@@ -270,7 +270,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-17
@@ -287,7 +287,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-18
@@ -304,7 +304,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-19
@@ -321,7 +321,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-20
@@ -338,7 +338,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-21
@@ -355,7 +355,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-22
@@ -372,7 +372,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-23
@@ -389,7 +389,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-24
@@ -406,7 +406,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-25
@@ -423,7 +423,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-26
@@ -440,7 +440,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-27
@@ -457,7 +457,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-28
@@ -474,7 +474,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-29
@@ -491,7 +491,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-30
@@ -508,7 +508,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-31
@@ -525,7 +525,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-32
@@ -542,7 +542,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-33
@@ -559,7 +559,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-34
@@ -576,7 +576,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-35
@@ -593,7 +593,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-36
@@ -610,7 +610,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-37
@@ -627,7 +627,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-38
@@ -644,7 +644,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-39
@@ -661,7 +661,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-40
@@ -678,7 +678,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-41
@@ -695,7 +695,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-42
@@ -712,7 +712,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-43
@@ -729,7 +729,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-44
@@ -746,7 +746,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-45
@@ -763,7 +763,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-46
@@ -780,7 +780,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-47
@@ -797,7 +797,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-48
@@ -814,7 +814,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-49
@@ -831,7 +831,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-50
@@ -848,7 +848,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-51
@@ -865,7 +865,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-52
@@ -882,7 +882,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-53
@@ -899,7 +899,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-54
@@ -916,7 +916,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-55
@@ -933,7 +933,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-56
@@ -950,7 +950,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-57
@@ -967,7 +967,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-58
@@ -984,7 +984,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-59
@@ -1001,7 +1001,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-60
@@ -1018,7 +1018,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-61
@@ -1035,7 +1035,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-62
@@ -1052,7 +1052,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-63
@@ -1069,7 +1069,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-64
@@ -1086,7 +1086,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-65
@@ -1103,7 +1103,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-66
@@ -1120,7 +1120,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-67
@@ -1137,7 +1137,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-68
@@ -1154,7 +1154,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-69
@@ -1171,7 +1171,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-70
@@ -1188,7 +1188,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-71
@@ -1205,7 +1205,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-72
@@ -1222,7 +1222,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-73
@@ -1239,7 +1239,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-74
@@ -1256,7 +1256,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-75
@@ -1273,7 +1273,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-76
@@ -1290,7 +1290,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-77
@@ -1307,7 +1307,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-78
@@ -1324,7 +1324,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-79
@@ -1341,7 +1341,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-80
@@ -1358,7 +1358,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-81
@@ -1375,7 +1375,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-82
@@ -1392,7 +1392,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-83
@@ -1409,7 +1409,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-84
@@ -1426,7 +1426,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-85
@@ -1443,7 +1443,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-86
@@ -1460,7 +1460,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-87
@@ -1477,7 +1477,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-88
@@ -1494,7 +1494,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-89
@@ -1511,7 +1511,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-90
@@ -1528,7 +1528,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-91
@@ -1545,7 +1545,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-92
@@ -1562,7 +1562,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-93
@@ -1579,7 +1579,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-94
@@ -1596,7 +1596,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-95
@@ -1613,7 +1613,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-96
@@ -1630,7 +1630,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-97
@@ -1647,7 +1647,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-98
@@ -1664,7 +1664,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-99
@@ -1681,7 +1681,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: k8s-acc-100
@@ -1698,7 +1698,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: configserver:kubecfg-remote
+    kubeconfigFile: configserver:kubecfg-remote-cmd
     oAuthScopes: []
     onlySpinnakerManaged: false
 

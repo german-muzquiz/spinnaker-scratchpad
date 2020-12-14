@@ -397,4 +397,4 @@
   permissions: {}
   requiredGroupMembership: []
   skipSslValidation: true
-    user: admin
+  user: admin

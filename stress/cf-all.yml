@@ -1,399 +1,399 @@
-- api: api.sys.sanmarcos.cf-app.com
-  appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+- api: api.sys.kolkata.cf-app.com
+  appsManagerUri: https://apps.sys.kolkata.cf-app.com
   name: cf-1
-  password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+  password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
   permissions: {}
   requiredGroupMembership: []
   skipSslValidation: true
   user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-2
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-3
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-4
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-5
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-6
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-7
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-8
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-9
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-10
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-11
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-12
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-13
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-14
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-15
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-16
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-17
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-18
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-19
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-20
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-21
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-22
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-23
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-24
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-25
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-26
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-27
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-28
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-29
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-30
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-31
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-32
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-33
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-34
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-35
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-36
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-37
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-38
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-39
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-40
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-41
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-42
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-43
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-44
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-45
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-46
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-47
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-48
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-49
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true
    #user: admin
- #- api: api.sys.sanmarcos.cf-app.com
-   #appsManagerUri: https://apps.sys.sanmarcos.cf-app.com
+ #- api: api.sys.kolkata.cf-app.com
+   #appsManagerUri: https://apps.sys.kolkata.cf-app.com
    #name: cf-50
-   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_SANMARCOS}
+   #password: ${CLOUDDRIVER_SPIN_SECRETS_CF_PASSWORD_KOLKATA}
    #permissions: {}
    #requiredGroupMembership: []
    #skipSslValidation: true

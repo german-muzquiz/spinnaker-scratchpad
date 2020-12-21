@@ -1,4 +1,4 @@
-name: k8s-acc-1
+name: k8s-acc-2
 requiredGroupMembership: []
 providerVersion: V2
 permissions: {}

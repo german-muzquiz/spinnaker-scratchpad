@@ -1,0 +1,31 @@
+kubernetes:
+  enabled: true
+  accounts:
+  - name: k8s-acc-1
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: ${KUBECONFIGS_HOME}/kubecfg-remote
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+
+cloudfoundry:
+  accounts:
+  - api: api.sys.kolkata.cf-app.com
+    appsManagerUri: https://apps.sys.kolkata.cf-app.com
+    name: cf-1
+    password: ${CF_PASSWORD}
+    permissions: {}
+    requiredGroupMembership: []
+    skipSslValidation: true
+    user: admin
+

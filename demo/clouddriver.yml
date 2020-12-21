@@ -1,5 +1,4 @@
 kubernetes:
-  enabled: true
   accounts:
   - name: k8s-acc-1
     requiredGroupMembership: []

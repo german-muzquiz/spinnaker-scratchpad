@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: myapp
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: myapp
+  template:
+    metadata:
+      labels:
+        app: myapp
+    spec:
+      containers:
+        - image: 'index.docker.io/library/nginx'
+          name: myapp
+          command: ["/bin/sh","-c"]
+          args: ["mkdir -p /usr/share/nginx/html/info && echo $NGINX_VERSION > /usr/share/nginx/html/info/version && nginx -g \"daemon off;\""]
+          volumeMounts:
+            - mountPath: /tmp/config
+              name: myconfig
+      volumes:
+        - name: myconfig
+          configMap:
+            name: myconfig

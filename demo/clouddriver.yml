@@ -17,14 +17,14 @@ kubernetes:
     oAuthScopes: []
     onlySpinnakerManaged: false
 
-cloudfoundry:
-  accounts:
-  - api: api.sys.kolkata.cf-app.com
-    appsManagerUri: https://apps.sys.kolkata.cf-app.com
-    name: cf-1
-    password: ${CF_PASSWORD}
-    permissions: {}
-    requiredGroupMembership: []
-    skipSslValidation: true
-    user: admin
+#cloudfoundry:
+#  accounts:
+#  - api: api.sys.kolkata.cf-app.com
+#    appsManagerUri: https://apps.sys.kolkata.cf-app.com
+#    name: cf-1
+#    password: ${CF_PASSWORD}
+#    permissions: {}
+#    requiredGroupMembership: []
+#    skipSslValidation: true
+#    user: admin
 

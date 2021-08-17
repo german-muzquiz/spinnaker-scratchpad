@@ -13,7 +13,7 @@ spec:
         app: nginx
     spec:
       containers:
-        - image: index.docker.io/library/nginx:1.16.0
+        - image: index.docker.io/library/nginx:1.14.0
           name: nginx
           ports:
             - containerPort: 80

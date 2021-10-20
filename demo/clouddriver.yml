@@ -1,6 +1,6 @@
 kubernetes:
   accounts:
-  - name: account-1
+  - name: account-v2
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}

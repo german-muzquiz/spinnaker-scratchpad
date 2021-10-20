@@ -1,0 +1,19 @@
+kubernetes:
+  accounts:
+    - name: account-agent
+      serviceAccount: true
+
+clouddriver:
+  grpc: spin-clouddriver-grpc:9091
+  insecure: true
+
+server:
+  port: 8082
+  
+prometheus:
+  enabled: true
+  port: 8008
+
+logging:
+  level: info
+  format: text

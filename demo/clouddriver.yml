@@ -13,7 +13,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: encryptedFile:s3!b:german-spinnaker!f:secrets/kubeconfig.yml
+    kubeconfigFile: encryptedFile:s3!b:german-spinnaker!r:us-west-2!f:secrets/kubeconfig.yml
     oAuthScopes: []
     onlySpinnakerManaged: false
   - name: account-2
@@ -29,6 +29,6 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: encryptedFile:s3!b:german-spinnaker!f:secrets/kubeconfig.yml
+    kubeconfigFile: encryptedFile:s3!b:german-spinnaker!r:us-west-2!f:secrets/kubeconfig.yml
     oAuthScopes: []
     onlySpinnakerManaged: false
